@@ -1,0 +1,33 @@
+/* .barra {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(131, 221, 135, 0.863);
+    height: 5em;
+    margin-bottom: 1em;
+} */
+
+.inputStyle {
+    height: 3em;
+    width: 30em;
+    color: rgb(55, 16, 230);
+    font-size: 1em;
+    margin-right: 0.5em;
+    padding: 0;
+    border-radius: 3cqh;
+
+}
+
+.buttonStyle {
+    height: 4em;
+    width: 10em;
+    background-color: rgb(213, 245, 183);
+    color: rgb(47, 145, 2);
+    border-color: rgb(27, 151, 2);
+    border-radius: 8%;
+}
+
+.buttonStyle span {
+    font-size: 1.5em;
+    /* Tamaño de fuente del texto dentro del botón */
+}

@@ -1,0 +1,39 @@
+.navContainer {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(165, 236, 165);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+
+}
+
+.searchBarContainer {
+    margin-left: 20rem;
+}
+
+.buttonContainer {
+    display: flex;
+    align-items: center;
+}
+
+.buttonStyle {
+    font-size: 1.3rem;
+    margin-right: 3rem;
+    background-color: #77d186;
+    /* establece el color de fondo */
+    border: none;
+    /* elimina el borde predeterminado */
+    box-shadow: 2px 2px 2px rgba(159, 161, 2, 0.904);
+    /* agrega un borde sombreado */
+    padding: 0.5rem 1rem;
+    /* agrega un poco de relleno */
+    border-radius: 8%;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(28, 71, 43);
+}
